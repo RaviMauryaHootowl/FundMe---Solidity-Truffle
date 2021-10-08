@@ -1,0 +1,26 @@
+{
+  "name": "truffle_test_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviMauryaHootowl/FundMe---Solidity-Truffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviMauryaHootowl/FundMe---Solidity-Truffle/issues"
+  },
+  "homepage": "https://github.com/RaviMauryaHootowl/FundMe---Solidity-Truffle#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
